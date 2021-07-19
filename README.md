@@ -1,0 +1,2 @@
+# newCloneRepo
+Test for clone
